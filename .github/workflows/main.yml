@@ -17,4 +17,3 @@ jobs:
             technology: javascript
             # Relative path under $GITHUB_WORKSPACE to use as a target
             # In this example, will use $GITHUB_WORKSPACE/src as a target
-            target: capstone/src
